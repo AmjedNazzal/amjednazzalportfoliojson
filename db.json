@@ -111,96 +111,96 @@
             {
               "id":"1",
               "skill": "ReactJs",
-              "image": "logos/react.png"
+              "image": "assets/images/logos/react.png"
             },
             {
               "id":"2",
               "skill": "Redux",
-              "image": "logos/redux.png"
+              "image": "assets/images/logos/redux.png"
             },
             {
               "id":"3",
               "skill": "Thunk",
-              "image": "logos/thunk.png"
+              "image": "assets/images/logos/thunk.png"
             },
             {
               "id":"4",
               "skill": "NodeJs",
-              "image": "logos/nodejs.png"
+              "image": "assets/images/logos/nodejs.png"
             },
             {
               "id":"5",
               "skill": "AngularJs",
-              "image": "logos/angular.png"
+              "image": "assets/images/logos/angular.png"
             },
             {
               "id":"6",
               "skill": "Javascript",
-              "image": "logos/javascript.png"
+              "image": "assets/images/logos/javascript.png"
             },
             {
               "id":"7",
               "skill": "HTML",
-              "image": "logos/html.png"
+              "image": "assets/images/logos/html.png"
             },
             {
               "id":"8",
               "skill": "CSS",
-              "image": "logos/css.png"
+              "image": "assets/images/logos/css.png"
             },
             {
               "id":"9",
               "skill": "JSON",
-              "image": "logos/json.png"
+              "image": "assets/images/logos/json.png"
             },
             {
               "id":"10",
               "skill": "Wordpress",
-              "image": "logos/pngegg.png"
+              "image": "assets/images/logos/pngegg.png"
             },
             {
               "id":"11",
               "skill": "Apache2",
-              "image": "logos/apache2.png"
+              "image": "assets/images/logos/apache2.png"
             },
             {
               "id":"12",
               "skill": "Git",
-              "image": "logos/git.png"
+              "image": "assets/images/logos/git.png"
             }
           ],
           "otherLangs": 
             {
               "skill": "Moderate knowledge of Python",
-              "image": "logos/python.png"
+              "image": "assets/images/logos/python.png"
             }
           ,
           "software": [
             {
               "id":"1",
               "skill": "Adobe Photoshop",
-              "image": "logos/ps.png"
+              "image": "assets/images/logos/ps.png"
             },
             {
               "id":"2",
               "skill": "Ms Office",
-              "image": "logos/office.png"
+              "image": "assets/images/logos/office.png"
             },
             {
               "id":"3",
               "skill": "3DsMax",
-              "image": "logos/max.png"
+              "image": "assets/images/logos/max.png"
             },
             {
               "id":"4",
               "skill": "Formatting and Firmware Installing",
-              "image": "logos/software.png"
+              "image": "assets/images/logos/software.png"
             }
           ],
           "hardware": 
             {
               "skill": "Replacing Hardware and Maintenance",
-              "image": "logos/hardware.png"
+              "image": "assets/images/logos/hardware.png"
             }
           
         }
