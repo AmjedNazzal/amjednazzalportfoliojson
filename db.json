@@ -1,0 +1,226 @@
+{
+  "aboutMe": 
+   {
+    
+      "general": 
+        {
+          "gender": "Male",
+          "nationality": "Jordanian",
+          "birthdate": "August 11th 1990",
+          "martialStatus": "Single",
+          "location": "Beylikduzu, Istanbul"
+        }
+      ,
+      "education": 
+        {
+          "degree":
+            {
+              "school": "The Arab College",
+              "major": "Accounting Information System",
+              "degree": "Diploma",
+              "year": "2011"
+            }
+          ,
+          "courses": [
+            {
+              "id": "1",
+              "school": "The Hong Kong University of Science and Technology",
+              "major": "Front-End Web Development with React",
+              "year": "2022"
+            },
+            {
+              "id": "2",
+              "school": "Johns Hopkins University",
+              "major": "Single Page Web Applications with AngularJS",
+              "year": "2021"
+            },
+            {
+              "id": "3",
+              "school": "Johns Hopkins University",
+              "major": "HTML, CSS, and Javascript for Web Developers",
+              "year": "2020"
+            },
+            {
+              "id": "4",
+              "school": "Coursera",
+              "major": "Build a Twitter Clone Front-End with ReactJS",
+              "year": "2022"
+            },
+            {
+              "id": "5",
+              "school": "Coursera",
+              "major": "Create a Website Using Wordpress : Free Hosting & Sub-domain",
+              "year": "2022"
+            }
+          ]
+        }
+      ,
+      "languages": [
+        {
+          "id":"1",
+          "language": "English",
+          "spoken": "Advanced",
+          "written": "Advanced"
+        },
+        {
+          "id":"2",
+          "language": "Arabic",
+          "spoken": "Native",
+          "written": "Native"
+        },
+        {
+          "id":"3",
+          "language": "Turkish",
+          "spoken": "Beginner",
+          "written": "Beginner"
+        }
+      ]
+    }
+  ,
+  "experiencesAndSkills": 
+    {
+      "experiences": [
+        {
+          "id":"1",
+          "company": "Freelancer.com",
+          "position": "Front-end Web Developer",
+          "year": "2021 - Now"
+        },
+        {
+          "id":"2",
+          "company": "Freelancer.com",
+          "position": "3D Modeler / 3D artist",
+          "year": "2018 - 2020"
+        },
+        {
+          "id":"3",
+          "company": "Arab Organisation for Human Rights in UK",
+          "position": "Social Media / Public Relations",
+          "year": "2018 - 2019"
+        },
+        {
+          "id":"4",
+          "company": "Mechanical Engineers and contractors",
+          "position": "Section Secretary",
+          "year": "2013 - 2015"
+        }
+      ],
+      "skills": 
+        {
+          "webDev": [
+            {
+              "id":"1",
+              "skill": "ReactJs",
+              "image": "logos/react.png"
+            },
+            {
+              "id":"2",
+              "skill": "Redux",
+              "image": "logos/redux.png"
+            },
+            {
+              "id":"3",
+              "skill": "Thunk",
+              "image": "logos/thunk.png"
+            },
+            {
+              "id":"4",
+              "skill": "NodeJs",
+              "image": "logos/nodejs.png"
+            },
+            {
+              "id":"5",
+              "skill": "AngularJs",
+              "image": "logos/angular.png"
+            },
+            {
+              "id":"6",
+              "skill": "Javascript",
+              "image": "logos/javascript.png"
+            },
+            {
+              "id":"7",
+              "skill": "HTML",
+              "image": "logos/html.png"
+            },
+            {
+              "id":"8",
+              "skill": "CSS",
+              "image": "logos/css.png"
+            },
+            {
+              "id":"9",
+              "skill": "JSON",
+              "image": "logos/json.png"
+            },
+            {
+              "id":"10",
+              "skill": "Wordpress",
+              "image": "logos/pngegg.png"
+            },
+            {
+              "id":"11",
+              "skill": "Apache2",
+              "image": "logos/apache2.png"
+            },
+            {
+              "id":"12",
+              "skill": "Git",
+              "image": "logos/git.png"
+            }
+          ],
+          "otherLangs": 
+            {
+              "skill": "Moderate knowledge of Python",
+              "image": "logos/python.png"
+            }
+          ,
+          "software": [
+            {
+              "id":"1",
+              "skill": "Adobe Photoshop",
+              "image": "logos/ps.png"
+            },
+            {
+              "id":"2",
+              "skill": "Ms Office",
+              "image": "logos/office.png"
+            },
+            {
+              "id":"3",
+              "skill": "3DsMax",
+              "image": "logos/max.png"
+            },
+            {
+              "id":"4",
+              "skill": "Formatting and Firmware Installing",
+              "image": "logos/software.png"
+            }
+          ],
+          "hardware": 
+            {
+              "skill": "Replacing Hardware and Maintenance",
+              "image": "logos/hardware.png"
+            }
+          
+        }
+      
+    }
+  ,
+  "contactme": 
+    {
+      "contact": 
+        {
+          "email": "amjednazzal@outlook.com",
+          "phonenum": "0090 539 384 0323",
+          "linkedin": "https://www.linkedin.com/in/amjed-nazzal-040305160/",
+          "facebook": "https://www.facebook.com/amjad.nazzal.7/"
+        }
+      ,
+      "messageForm": 
+        {
+
+        }
+      
+    }
+}
