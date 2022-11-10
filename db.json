@@ -216,11 +216,11 @@
           "linkedin": "https://www.linkedin.com/in/amjed-nazzal-040305160/",
           "facebook": "https://www.facebook.com/amjad.nazzal.7/"
         }
-      ,
-      "messageForm": 
-        {
-
-        }
-      
     }
+  ,
+  "messageForm": [
+    {
+
+    }
+  ]
 }
